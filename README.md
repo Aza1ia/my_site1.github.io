@@ -5,11 +5,11 @@
 </head>
 <body bgcolor="#FFDEAD">
 <h1> 
-<b> <center>Мой родной город - Уфа </b> <hr> </center>
-</h1>
+<b> <center>Мой родной город - Уфа  <hr> </center>
+
 <h2>
-<b> <center> Главная </b> </center>
-</h2>
+<b> <center> Главная  </center>
+
 <p>
 <img src="img1.jpg" width="400" height="300">
 <br>
@@ -21,8 +21,7 @@
 <br>Центр Уфимской агломерации. 
 <br>Входит в число крупнейших 
 экономических, культурных и научных центров Российской Федерации.
-</p>
+
 <br>
 <right><img src="img11.jpg" width="200" height="150">
-</body>
-</html>
+
